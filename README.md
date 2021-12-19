@@ -1,4 +1,4 @@
-# Who's Teneika and What is She Building? 👩🏽‍🏫 📊 👩🏽‍💻
+# Who's Teneika and What's She Building? 👩🏽‍🏫 📊 👩🏽‍💻
 
 Hi 👋🏽 I'm a Global Analytics and Agile Leader, Teacher and Mentor who is passionate about bringing data fluency and technology to elevate people while building and expanding communities. I have over 9️⃣ years of experience providing analytics, business process improvement and consulting services. I enjoy and specialize in data analyses 📉 around financial, talent and operational data and driving workforce strategies for Fortune 500 companies.
 
