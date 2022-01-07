@@ -8,3 +8,6 @@ Hi 👋🏽 I'm a Global Analytics and Agile Leader, <strong>Teacher and Mentor<
 <br><strong>Tools</strong>💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovative insights using organizational data.
 <br><br>
 <strong>Certifications</strong> 🎓 | Microsoft Data Analyst, Certified Scrum Master, Tableau Desktop Specialist, AWS Solution Architect. COBIT 5, ITIL, Agile Certified Practitioner and Microsoft Certified Trainer. Fellowships: Data Science for All - Empowerment and Data Science for All - Women
+
+<br><br>
+Want to know more about Teneika? Checkout her GatsbyJS Voices feature: <a href="https://www.gatsbyjs.com/blog/gatsby-voices-teneika-askew/">Building a Better World Through Data</a>
