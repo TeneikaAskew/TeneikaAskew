@@ -11,4 +11,4 @@ Hi 👋🏽 I'm a Global Analytics and Agile Leader, <strong>Teacher and Mentor<
 
 <br><br>
 Want to know more about Teneika? Checkout her GatsbyJS Voices feature: <a href="https://www.gatsbyjs.com/blog/gatsby-voices-teneika-askew/">Building a Better World Through Data</a>
-https://docs.google.com/presentation/d/1ed5mGsEYsdgR3_91fGmrmj3CDccfuXTN/edit?usp=sharing&ouid=104595923891799375741&rtpof=true&sd=true
+https://drive.google.com/file/d/1lZKcS1ZIf7NWTC5SuUaiV7WJI0WNzPAg/view?usp=sharing
